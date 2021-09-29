@@ -1,8 +1,9 @@
 <div align="center">
+
   <a href="https://hello-slide.jp">
-    <img align="center" src="https://user-images.githubusercontent.com/24271196/135305264-aba591be-e187-4d31-8503-3145653a4639.png" />
+    <img align="center" src="https://user-images.githubusercontent.com/24271196/135309868-7267a173-f171-4770-9e38-e7c399bc33ce.png" />
+    <h3>参加ができる進化したスライド</h3>
   </a>
-  <h3>参加ができる進化したスライド</h3>
 </div>
 
 ## TECHNOLOGY USED
